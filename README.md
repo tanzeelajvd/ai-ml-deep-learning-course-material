@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# ai-ml-deep-learning-course-material
- Official AI/ML/Deep Learning course materials for undergrad and graduate students, including Prolog labs, Python notebooks, CNN deployments, and academic slides
+Official AI/ML/Deep Learning course materials for undergrad and graduate students, including Prolog labs, Python notebooks, CNN deployments, and academic slides
 =======
 # 📚 AI/ML/Deep Learning Course Materials Repository
 
@@ -100,5 +98,4 @@ This content is provided for **educational and research purposes only** under th
 
 ---
 
-> "Empowering learners to build AI solutions that matter."
->>>>>>> 90910b9 (Initial upload af ai/ml/deep Learning COurse Material)
+"Empowering learners to build AI solutions that matter."
